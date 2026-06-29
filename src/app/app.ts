@@ -35,6 +35,7 @@ export class App {
       });
     }
 
-    return annualData;
+    // return annualData;
+    console.log(annualData);
   }
 }
